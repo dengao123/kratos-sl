@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/go-kratos/kratos/cmd/kratos/v2/internal/base"
+	"github.com/dengao123/kratos-sl/internal/base"
 )
 
 // TestCmdNew tests the `kratos new` command.

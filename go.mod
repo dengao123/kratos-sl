@@ -1,4 +1,4 @@
-module github.com/go-kratos/kratos/cmd/kratos/v2
+module github.com/dengao123/kratos-sl
 
 go 1.16
 
