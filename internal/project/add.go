@@ -6,9 +6,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/fatih/color"
-
+	"github.com/AlecAivazis/survey/v2"
 	"github.com/dengao123/kratos-sl/internal/base"
+	"github.com/fatih/color"
 )
 
 var repoAddIgnores = []string{

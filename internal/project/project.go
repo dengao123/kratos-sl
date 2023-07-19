@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/spf13/cobra"
-
+	"github.com/AlecAivazis/survey/v2"
 	"github.com/dengao123/kratos-sl/internal/base"
+	"github.com/spf13/cobra"
 )
 
 // CmdNew represents the new command.
